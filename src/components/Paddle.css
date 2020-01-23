@@ -1,0 +1,6 @@
+.paddle {
+  width: 25px;
+  height: 100px;
+  background-color: rgb(10, 91, 156);
+  border-radius: 4px;
+}
